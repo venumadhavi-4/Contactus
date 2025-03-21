@@ -11,6 +11,7 @@ const Contactus = () => {
             <div className="contact_hero">
            <img src={hero}></img>
            <h1>Let’s <span>Connect </span>& Collaborate</h1>
+                <p>Partner with Us for Innovative Solutions</p>
            </div>
            <div className="getin">
               <p>GET IN TOUCH</p>
